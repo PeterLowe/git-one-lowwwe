@@ -8,4 +8,12 @@ Format git rm filename
 Can use wildcards and -r for recursive
 Use - - cached to remove from staging area
 Use -f to use on working directory
+ 
+Clone
 
+Git clone url
+Make a local caopy of repo
+
+ 
+Cd into the folder
+ 
