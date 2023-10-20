@@ -1,5 +1,5 @@
 Git guide
-By Peter Lowe
+By Pete is cool
  
 Git rm
 
